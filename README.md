@@ -1,6 +1,7 @@
 Portable-VI
 ===========
 It is a simplified & portable vi source code.
+about 30KB@linux, 12KB@stm32, ram should better >= 8KB
 
 Usage
 -----
